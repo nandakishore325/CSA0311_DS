@@ -21,7 +21,7 @@ int main()
 	}
 	if(i==n)
 	{
-		printf("%d not present in the array",i);
+		printf("%d not present in the array",search);
 	}
 	return 0;
 }
